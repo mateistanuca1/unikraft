@@ -308,3 +308,4 @@ The Unikraft name, logo and its mascot are trademark of [Unikraft GmbH](https://
 [unikraft-kraftfile-syntax]: https://unikraft.org/docs/cli/reference/kraftfile/latest
 [github-codespaces-catalog]: https://codespaces.new/unikraft/catalog
 [kraft]: https://github.com/unikraft/kraftkit
+Test PR send Discord notification
